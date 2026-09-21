@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CV Talitha Kayana Aristo</title>
+</head>
+
+<body>
+
+    <h1>Talitha Kayana Aristo</h1>
+    <img src="my_photo.jpeg" width="200">
+
+    <p>Bekasi, Jawa Barat, Indonesia</p>
+
+    <p>
+        ayasaka108@gmail.com | +6281514873231
+    </p>
+
+    <hr>
+
+    <h2>Keahlian</h2>
+
+    <p>Bilingual</p>
+
+    <hr>
+
+    <h2>Riwayat Pendidikan</h2>
+
+    <p>SMAN 5 Tambun Selatan</p>
+
+</body>
+</html>
